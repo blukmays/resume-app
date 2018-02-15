@@ -1,0 +1,51 @@
+*{
+  padding:0px;
+}
+
+.main-cont{
+  /*background-color: #C1EEF4;*/
+  background-image:  url(floral.jpg);
+  background-size: 100vw;
+  display: flex;
+  padding: 50px;
+}
+
+#name{
+  font-size: 70px;
+}
+.left{
+  width: 30%;
+  background-color: #FFCDD2;
+
+  text-align: center;
+  padding-top: 25px;
+  font-family: Pacifico;
+  color:#A1887F;
+
+
+}
+.email {
+  width:30px;
+}
+
+.phone {
+  width:30px;
+}
+
+.cap  {
+  width:30px;
+}
+.right{
+  width: 50%;
+  background-color: antiquewhite;
+  padding: 50px;
+  font-family: Pacifico;
+
+
+}
+
+.image{
+  width: 300px;
+  height: auto;
+  border-radius: 50%;
+}
